@@ -10,4 +10,5 @@ mod day09;
 mod day10;
 mod day11;
 mod day12;
+mod day25;
 mod util;
